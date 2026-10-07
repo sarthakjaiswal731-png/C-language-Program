@@ -1,0 +1,27 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+	clrscr();
+	printf("1");
+	printf("\n2");
+	printf("\n3");
+	printf("\n4");
+	printf("\n5");
+	printf("\n6");
+	printf("\n7");
+	printf("\n8");
+	printf("\n9");
+	printf("\n10");
+	printf("\n11");
+	printf("\n12");
+	printf("\n13");
+	printf("\n14");
+	printf("\n15");
+	printf("\n16");
+	printf("\n17");
+	printf("\n18");
+	printf("\n19");
+	printf("\n20");
+	getch();
+}
